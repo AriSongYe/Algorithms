@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3661864d-e7c5-45b4-a6ba-4576aa438102" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26061e90-d822-46a9-9581-e8db933e8755" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2cl0mbGyl18hTrAbBnmNN7Du4et" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2cz2KRjfmFy3tMIrFrBKejl7Fj0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -44,20 +46,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/apple/Desktop/Born2be_Code/Java/Algorithms/Weighted-Quick-Union",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/apple/Desktop/Born2be_Code/Java/Weighted-Quick-Union/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/apple/Desktop/Born2be_Code/Java/ArrayQueue/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Weighted-Quick-Union" />
+      <module name="ArrayQueue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,14 +79,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3661864d-e7c5-45b4-a6ba-4576aa438102" name="Changes" comment="" />
-      <created>1708671017654</created>
+      <changelist id="26061e90-d822-46a9-9581-e8db933e8755" name="Changes" comment="" />
+      <created>1709100021305</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708671017654</updated>
-      <workItem from="1708671018833" duration="3926000" />
-      <workItem from="1708996462289" duration="718000" />
-      <workItem from="1709104066644" duration="13000" />
+      <updated>1709100021305</updated>
+      <workItem from="1709100022480" duration="4410000" />
     </task>
     <servers />
   </component>
