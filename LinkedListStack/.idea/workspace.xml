@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8b0bab-64d8-43a8-b9b1-66b530e31870" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Weighted-Quick-Union/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Weighted-Quick-Union/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Weighted-Quick-Union/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Weighted-Quick-Union/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayStack/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,7 @@
       <workItem from="1709096020519" duration="133000" />
       <workItem from="1709096210233" duration="1320000" />
       <workItem from="1709104092331" duration="131000" />
+      <workItem from="1709181382582" duration="934000" />
     </task>
     <servers />
   </component>
